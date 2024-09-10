@@ -4,6 +4,9 @@
 
 Este proyecto es una **aplicación gráfica de predicción de aprobación de préstamos** desarrollada en **Python** utilizando bibliotecas como `tkinter` para la interfaz gráfica de usuario y `scikit-learn` para la implementación de modelos machine learning.
 
+Liga del dataset ocupado en este proyecto
+https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset
+
 ## Descripción
 
 El sistema predice si un préstamo será **aprobado** o **rechazado** basado en el puntaje crediticio del solicitante, la duración del préstamo, y la cantidad de dependientes. Utiliza cuatro modelos de clasificación diferentes:
